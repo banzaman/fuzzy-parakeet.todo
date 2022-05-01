@@ -12,7 +12,6 @@
 
 ## Built With
 
-- Webpack
 - HTML
 - CSS
 - JAVASCRIPT
@@ -38,8 +37,8 @@ If you haven't yet, you should first [set up Git.](https://docs.github.com/en/ge
 
 - Click the green `Code` button on the repo
 - In your local PC, open your terminal in the folder you would like to clone the project.
-- Clone the repo with the command: `git clone (copied link)`; like so: `git clone https://github.com/banzaman/To-do-list-`
-- On the terminal, navigate into the directory like so: `cd To-do-list`
+- Clone the repo with the command: `git clone (copied link)`; like so: `git clone https://github.com/banzaman/fuzzy-parakeet.todo`
+- On the terminal, navigate into the directory like so: `cd fuzzy-parakeet.todo`
 
 ## Authors
 
@@ -47,13 +46,13 @@ If you haven't yet, you should first [set up Git.](https://docs.github.com/en/ge
 
 - GitHub: [@banzaman](https://github.com/banzaman)
 - Twitter: [@banzamarq10](https://twitter.com/banzamarq10)
-- LinkedIn: [markrubanzaanderson](https://www.linkedin.com/in/mark-rubanza-anderson-4399a2211/)
+- LinkedIn: [Mark-Rubanza-Anderson](https://www.linkedin.com/in/mark-rubanza-anderson-4399a2211/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/banzaman/To-do-list-/issues).
+Feel free to check the [issues page](https://github.com/banzaman/fuzzy-parakeet.todo/issues).
 
 ## Show your support
 
